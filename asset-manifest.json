@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/todo.github.io/static/css/main.beef6503.css",
+    "main.js": "/todo.github.io/static/js/main.65548750.js",
+    "static/js/787.e86875ab.chunk.js": "/todo.github.io/static/js/787.e86875ab.chunk.js",
+    "index.html": "/todo.github.io/index.html",
+    "main.beef6503.css.map": "/todo.github.io/static/css/main.beef6503.css.map",
+    "main.65548750.js.map": "/todo.github.io/static/js/main.65548750.js.map",
+    "787.e86875ab.chunk.js.map": "/todo.github.io/static/js/787.e86875ab.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.beef6503.css",
+    "static/js/main.65548750.js"
+  ]
+}
